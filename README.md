@@ -9,7 +9,7 @@
 
 ## 🤔 Sobre
 
-Projeto **Relógio**, projeto feito com base nos conceitos de um relógio.
+Projeto **Tela de Login**, projeto feito com base nos conceitos de um relógio.
 
 ---
 
@@ -25,10 +25,10 @@ O projeto foi feito utilizando das seguintes tecnologias
 
 ```bash
   #clonar o repositorio
-  $ git clone https://github.com/juniorbraz93/relogio_python.git
+  $ git clone https://github.com/brxndas/screen_login.git
 
   #entrar na pasta do projeto
-  $ cd relogio_python
+  $ cd screen_login
 
   #instalar as dependencias
   $ python main.py
@@ -39,6 +39,6 @@ O projeto foi feito utilizando das seguintes tecnologias
 
 ## 💻 Funcionalidades
 
-- 🏠 Relógio ✅
+- 🏠 Tela de Login ✅
 
 Desenvolvido 🧑‍💻 por Brenda Mendes
