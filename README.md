@@ -9,7 +9,7 @@
 
 ## 🤔 Sobre
 
-Projeto **Tela de Login**, projeto feito com base nos conceitos de um relógio.
+Projeto **Tela de Login**, projeto feito com base nos conceitos de uma tela de login.
 
 ---
 
